@@ -39,9 +39,10 @@
       <provider>MC</provider>
       <environment>Sandbox</environment>
       <target>Cloudhub-US-East-2</target>
+      <muleVersion>4.9.0</muleVersion>
       <username>anypointibm</username>
       <password>Anypoint@123</password>
-      <applicationName>cloudhub-app</applicationName>
+      <applicationName>cloudhub-app-cicd</applicationName>
       <replicas>1</replicas>
       <vCores>0.1</vCores>
     </cloudhub2Deployment>
